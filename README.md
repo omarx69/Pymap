@@ -7,6 +7,6 @@ installtion =>
 
 2: go to the folder of the repo "cd pynmap"
 
-3: install requirements.txt "pip install -r requirements.txt"
+3: run the code "python3 pymap.py"
 
-4: run the code "python3 pymap.py"
+good net-mapping :)
