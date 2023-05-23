@@ -3,7 +3,7 @@ it is a simple nmap ui (user interface)
 
 installtion =>
 
-1: clone the repo "https://github.com/omarx69/Pymap.git"
+1: clone the repo "git clone https://github.com/omarx69/Pymap.git"
 
 2: go to the folder of the repo "cd pynmap"
 
